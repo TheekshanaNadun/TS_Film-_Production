@@ -19,7 +19,7 @@ namespace Quiet_Attic_Film__Production
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (textBox1.Text=="Imalsha"&& textBox2.Text=="1234" ) {
+            if (textBox1.Text=="Theekshana"&& textBox2.Text=="1234" ) {
             MainMenu mm= new MainMenu();
             mm.Show();
             this.Hide();
